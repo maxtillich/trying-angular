@@ -1,0 +1,5 @@
+- Angular JS
+- Pure
+	- http://purecss.io/
+- Firebase
+	- https://www.firebase.com/
